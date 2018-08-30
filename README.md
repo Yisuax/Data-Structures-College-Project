@@ -1,2 +1,3 @@
 # STUFF
-anything to programming
+college stuff
+
